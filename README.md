@@ -5,15 +5,15 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mayurizade/)
 
-- 💬 Ask me about **pyhton,django,sql,mongodb**
+- 💬 Ask me about **GCP,SQL,DATAPROC,SNOWFLAKE,PYTHON**
 
-- 📫 How to reach me **sakshikk04@gmail.com**
+- 📫 How to reach me **mayurisanjayzade@gmail.com**
 
 - ⚡ Fun fact **I love trying out new programming languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/sak23github/sak23github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi taywade" height="30" width="40" /></a>
+<a href="https://github.com/sak23github/sak23github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mayuri Zade" height="30" width="40" /></a>
 <a href="https://instagram.com/__sakshii_taywade__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sakshii_taywade__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sakshikk04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sakshikk04" height="30" width="40" /></a>
 </p>

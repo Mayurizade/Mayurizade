@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sak23github&show_icons=true&locale=en&layout=compact" alt="sak23github" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sak23github&show_icons=true&locale=en" alt="sak23github" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sak23github&" alt="sak23github" /></p>

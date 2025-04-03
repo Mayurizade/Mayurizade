@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayuri Zade</h1>
-<h3 align="center">I have over 3+ years of extensive experience within the IT industry, specializing as a proficient Data Engineer. My primary focus involves the efficient migration of data from on-premises systems to the Google Cloud Platform (GCP) utilizing state-of-the-art tools such as BigQuery, Cloud DataProc, Google Cloud Storage, CI/CD Pipelines and Composer. </h3>
+<h3 align="center">I have over 3+ years of extensive experience within the IT industry, specializing as a proficient Data Engineer.My primary focus involves the efficient migration of data from on-premises systems to the Google Cloud Platform (GCP) utilizing state-of-the-art tools such as BigQuery, Cloud DataProc, Google Cloud Storage, CI/CD Pipelines and Composer. </h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sak23github&label=Profile%20views&color=0e75b6&style=flat" alt="sak23github" /> </p>
 
